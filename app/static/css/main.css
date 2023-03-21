@@ -2,9 +2,10 @@
   background-color: darkslateblue;
 }
 
-.div {
-  background-color: darkslateblue;
+h2, h4{
+  color: gold;
 }
+
 
 #orb {
     width: 400px;
